@@ -1,0 +1,88 @@
+
+*dump*
+*temp*
+*log*
+*.fig
+*.png
+*.tif
+*.csv
+*.npy
+*.ipynb
+*.ipynb*
+*.pyc
+.vscode
+*.swp
+datasets/
+PyInfiGMM/
+.weights
+.h5
+.xml
+*logs
+*mask_rcnn.egg-info
+.out
+# Data files and directories common in repo root
+datasets/
+logs/
+*.h5
+results/
+temp/
+test/
+_trainLogs/
+trainLog/
+_scripts_*
+
+
+_scripts
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Studio Code
+.vscode
+
+# PyCharm
+.idea/
+
+# Dropbox
+.dropbox.attr
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+
